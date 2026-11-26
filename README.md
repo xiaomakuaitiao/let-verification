@@ -1,4 +1,6 @@
-# Verification
+# LowEndTalk Account Verification
 
-Temporary public repository confirming that this GitHub account is controlled by the operator of **smtpdog.com** (**TokenOpen, Inc.**) for LowEndTalk verification.
+This public repository confirms that the GitHub account **xiaomakuaitiao** is owned and operated by **Kelvin Hu** (LET username: **superlow**), Founder & General Manager of **TokenOpen, Inc.** (https://smtpdog.com).
+
+- **Ticket Reference:** OBM-896534
 
